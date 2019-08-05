@@ -3,3 +3,5 @@
 
 - 토큰 기반, 중복 토큰 걸러주는 기능 제공
 - 한글 지원
+- 깃헙 원본 : https://github.com/seatgeek/fuzzywuzzy
+- 레빈스타인거리 설명(위키피디아) : https://en.wikipedia.org/wiki/Levenshtein_distance
