@@ -5,3 +5,9 @@
 - 한글 지원
 - 깃헙 원본 : https://github.com/seatgeek/fuzzywuzzy
 - 레빈스타인거리 설명(위키피디아) : https://en.wikipedia.org/wiki/Levenshtein_distance
+
+
+# fuzzywuzzy 라이브러리 - 개인 소규모 프로젝트 두 가지
+
+- 뉴스 제목 리스트에서 유사 제목의 뉴스 걸러내기(중복제거)
+- YES24 서평 코멘트 리스트에서 표절 서평 찾아내기
